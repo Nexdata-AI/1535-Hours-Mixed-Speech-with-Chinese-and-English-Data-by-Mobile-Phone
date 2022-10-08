@@ -1,8 +1,10 @@
 # 1535-Hours-Mixed-Speech-with-Chinese-and-English-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/939
+
 
 ## Description
 The data is recorded by 3972 Chinese native speakers with accents covering seven major dialect areas. The recorded text is a mixture of Chinese and English sentences, covering general scenes and human-computer interaction scenes. It is rich in content and accurate in transcription. It can be used for improving the recognition effect of the speech recognition system on Chinese-English mixed reading speech.
+
+For more details, please refer to the link: https://bit.ly/3xRjcaa
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ mandarin; English
 
 ## Application scenarios
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
