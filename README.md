@@ -4,7 +4,7 @@
 ## Description
 The data is recorded by 3972 Chinese native speakers with accents covering seven major dialect areas. The recorded text is a mixture of Chinese and English sentences, covering general scenes and human-computer interaction scenes. It is rich in content and accurate in transcription. It can be used for improving the recognition effect of the speech recognition system on Chinese-English mixed reading speech.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/939?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/939?source=Github
 
 
 ## Format
